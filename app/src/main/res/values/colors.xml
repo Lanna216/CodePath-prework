@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="beige">#d9a89c</color>
+    <color name="black">#000034</color>
+    <color name="maroon">#c34d57</color>
+    <color name="lavender">#deb4ea</color>
+    <color name="teal">#00c4cc</color>
+    <color name="paleGreen">#98FB98</color>
+    <color name="forestGreen">#228B22</color>
+    <color name="almond">#FFEBCD</color>
+</resources>
